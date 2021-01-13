@@ -1,0 +1,81 @@
+Narrow range candles are trend continuation candles
+
+When volume reduces in Up Trend, it gives opportunity for Responsive Sellers to enter and drive prices lower.
+
+Three time test rule for short selling
+
+Candle 2, 3 & 5 were Shakeout candles in Bank Nifty. Remember, in down move, shakeout candles form on the back of high volume.
+
+Stage 1 & stage 3 are no trade zones. while in stage 1 we should wait for price to decisively break above/below stage 1 with WRC with vol, and then enter. Applicable to stage 3 also
+
+The Adjustment I Make - I continue taking positions in direction of Trend but I reduce position size. This is the way I manage risk. This is when Price or Volume do not exhibit normal market behaviour.
+
+Picking 25% positions in bullish upthrust candles in stage 1 and balance 75% after stage 1 BO
+
+Only thing that is disappointing is the volume. 
+Will trade this but with reduced position size. 
+
+Picked up 50% Quantity In Granules & Cadilla. 
+Key VSA Rule - Support near Mid point of Wide Range Candle.
+Risk is 1% per trade. Taking trades with reduced risk as markets are still seeing average volumes.
+
+What you can Anticipate with VSA Rules
+
+1) Low volume rise is not healthy. Never chase Momentum blindly. 
+2) Reduce Position Size & always take note of Initial Risk
+3) Low Volume makes Price more prone to sharper pullbacks and being conservative is important. 
+4) Its difficult to not enter with full positions and see price skyrocketing. But in the end, it is about long term discipline and not about missing out in the near term.
+
+Pullback Structure - This just tells you Stock in a trend is undergoing a mean reversion process. Wait for confirmation. Confirmation is a Bullish Up Thrust candle with above average volumes. Preferably Entry Candle should engulf a few candles in the process. Control that itch to initiate a Trade. Be selective. Without confirmation, never buy a pullback.
+
+Entry Time - If 60 min TF is something you prefer, I will take only 25% positions on it. Rest I will take only on Daily TF. Again, this is because of focusing more on Best of Trades that are available. This also has an advantage. If Entry signal on 60 min is a false one, then the max I will lose is on the open 25% positions. 
+
+
+valid pullback structure - high vol upmove and low vol downmoves, bullish patterns close to swing low, previous s&r, mid point of wrc - enter
+
+
+Entered 50% Positions here. Remaining I will enter above 2000 (High of Bearish candles). Volumes were not that high. So being conservative.
+
+
+
+Valid SL locations - Swing low, low of a WRC, mid point of a WRC and close of a WRC
+
+What about Short sell? I am not inclined to Short selling just yet. My golden rule is to never short sell till Price is above 200 DMA and Nifty is well above it for now. I dont mind missing out if price moves lower. But, I dont like breaking my rules. Also, I only prefer Short selling Index futures. Not Stocks. Just a personal preference.
+
+Chasing Breakouts is fine, but mentally be prepared for down move / retracement after you enter. 
+
+Shakeout is very common near all time highs and this is why those chasing Breakouts with F&O tend to get stopped out.
+
+
+When Investors & Traders start losing interest in Stocks (Due to down trend or Prolonged range), this is when some of the best Trending moves come
+
+
+
+All Beginners, stay away from F&O for at least 3 Years. Just explaining key VSA concepts here.
+
+Since Nifty is forming lower high lower low on daily TF, short term trading on long side is out of question for me. The only type of Trades I am interested in is Positional trad
+
+I don't short sell below 200DMA or buy below 200DMA
+
+ Positional trades I will keep till Nifty is above 200 DMA. Once Nifty starts moving below 200 DMA and starts sustaining below it, I will start reducing Positional trades quantity drastically. At least by 50%. And on remaining will let SL's be in play
+
+Island reversal - leads to higher level in the market
+
+Movement above the Resistance level comes on the back of low volume activity. This just means price is more prone to pullbacks for now. 
+
+The simple reason I kept on buying Bees (ETF) as Nifty and Nifty Bank was pulling back was because of long term structure, Price being above 200 DMA and sign of Strength in Nifty Bank Stocks. NEVER ignore Long term structure.
+
+Shakeout usually happens at Start of an Up move and not towards the end or in middle of established Trend.(25/11)
+
+
+Major pivot - Minor pivot
+
+Momentum has been exceptionally strong on the up side. Hence, I don’t think market will form Stage 3 if it were to move lower. It would be in an inverted ‘V’ shape pattern. This is just my guess. I have seen many a times that reversals from high momentum phases plays out in an inverted ‘V’ shape kind of pattern (Swift & with Volumes)
+
+Today I exited Lalpath Labs positions. Stock was not performing and more importantly, it went into the structure of lower high and lower low on Hourly TF. 
+
+Remember the Rule, when Structure is HH HL, most Gaps will get filled.
+
+On the 21st, the Candle we got was a sharp pullback candle. It was not a Shakeout (Purely based on where it formed). I will label this Retest of Previous Resistance level till low's of 21st & 22nd are held.
+
+
